@@ -86,10 +86,11 @@ export default function Payment() {
                                 <span>Phí vận chuyển</span>
                                 <b>50.000đ</b>
                             </div>
-                            <div className="CartDrawer_total_bot">
+                            <div className='CartDrawer_total_bot'>
                                 <span>Tổng tiền</span>
-                                <b>50.000đ</b>
+                                <b>275.000.000</b>
                             </div>
+                            
                         </div>
                     </div>
                 </div>
